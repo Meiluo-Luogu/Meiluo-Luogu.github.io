@@ -2,20 +2,18 @@
   "announcements": [
     {
       "id": 1,
-      "title": "S&A Dev 即将上线",
-      "content": "Smart and Amazing OJ Dev 即将上线，驱使用户可以自定义样式背景、手动深色等。",
+      "title": "界面更新",
+      "content": "更精致美丽，未来还会开鸣谢板块来致谢。",
       "active": true,
       "bg": {
         "type": "gradient",
-        "value": "linear-gradient(135deg, rgb(102 194 234) 0%, rgb(218 54 54) 100%)"
+        "value": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
       }
     },
     {
       "id": 2,
-      "title": "Amazing Luogu",
-      "content": "Amazing Luogu 是一款让洛谷变得更好的篡改猴插件。",
-      "link": "https://amlg.top/",
-      "linkText": "Link！",
+      "title": "Argon Luogu Dev 2026 上线",
+      "content": "Argon Luogu Dev 2026 上线，十分精致，美丽，推荐使用。",
       "active": true,
       "bg": {
         "type": "gradient",
@@ -24,8 +22,8 @@
     },
     {
       "id": 3,
-      "title": "网页公告",
-      "content": "现在可以使用网页公告啦！",
+      "title": "Meiluo Atcoder Dev 上线",
+      "content": "Meiluo Atcoder Dev 上线，驱使用户可以自定义样式背景、手动深色等。",
       "active": true,
       "bg": {
         "type": "gradient",
@@ -34,10 +32,20 @@
     },
     {
       "id": 4,
-      "title": "更新日志",
-      "content": "我们新整了一个更新日志界面！",
-      "link": "#changelog",
-      "linkText": "查看",
+      "title": "Meiluo Luogu Dev 即将上线",
+      "content": "Meiluo Luogu Dev 即将上线，将可以让用户可以自定义样式背景、手动深色等。",
+      "active": true,
+      "bg": {
+        "type": "gradient",
+        "value": "linear-gradient(135deg, #fa4b4b 0%, #fa4a4a 100%)"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Amazing Luogu",
+      "content": "Amazing Luogu 是一款让洛谷变得更好的篡改猴插件。",
+      "link": "https://amlg.top/",
+      "linkText": "Link！",
       "active": true,
       "bg": {
         "type": "gradient",
